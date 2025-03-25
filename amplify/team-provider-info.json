@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-akkarecipes-dev-4ff43-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730489899775:role/amplify-akkarecipes-dev-4ff43-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730489899775:role/amplify-akkarecipes-dev-4ff43-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-akkarecipes-dev-4ff43-deployment",
+      "UnauthRoleName": "amplify-akkarecipes-dev-4ff43-unauthRole",
+      "StackName": "amplify-akkarecipes-dev-4ff43",
+      "StackId": "arn:aws:cloudformation:us-east-2:730489899775:stack/amplify-akkarecipes-dev-4ff43/df5a7b30-0820-11f0-bbfb-0a17adcb774f",
+      "AmplifyAppId": "d10j1czffq8zdc"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d10j1czffq8zdc",
+          "type": "manual"
+        }
+      },
+      "api": {
+        "akkarecipes": {}
+      }
+    }
+  }
+}
